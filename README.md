@@ -34,4 +34,10 @@ Both methods serve different purposes. The speech_recognition approach is best f
 
 By combining modern tools and models, this program demonstrates the power and flexibility of building speech-enabled applications. Whether you're working on accessibility tools, voice assistants, or automated transcription services, these methods provide a strong foundation for creating efficient and intelligent Speech-to-Text solutions.
 
+INPUT:
 
+[with_speech.docx](https://github.com/user-attachments/files/21074715/with_speech.docx)
+
+OUTPUT:
+
+Hello, I am completing my internship task using AI.
